@@ -51,8 +51,8 @@ Sole-developer SDLC from Figma wireframes through App Store and Google Play depl
 
 ### Elsewhere
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jimyeong-jung-725a9223a/) — UK job search & engineering notes
-- 🧮 [LeetCode](https://leetcode.com/u/idjjm92/)
-- 📚 Reading log on Instagram (DM for the handle)
+- [LinkedIn](https://www.linkedin.com/in/jimyeong-jung-725a9223a/) — UK job search & engineering notes
+- [LeetCode](https://leetcode.com/u/idjjm92/)
+- [Blog](https://jimyeong.github.io/)
 
 📍 Birmingham, UK · 🗣 English / 한국어
