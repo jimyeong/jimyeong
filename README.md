@@ -10,7 +10,7 @@ Currently building deeper ML expertise on top of a full-stack + IoT foundation. 
 
 ### Currently building
 
-**[Lidless Platform](https://github.com/jimyeong/lidless-oracle)** — Multilingual, IoT-aware conversational system
+**[Lidless Platform](https://github.com/jimyeong/lidless-controller)** — Multilingual, IoT-aware conversational system
 `React Native` · `TypeScript` · `Apollo GraphQL` · `Python` · `Anthropic Claude API` · `PostgreSQL`
 
 Distributed-by-design across four components (Controller / Hermes / Oracle / message broker), so a fault in one does not bring down the others. CQRS with outbox-inbox at the boundaries; GraphQL BFF gateway absorbing client divergence; tool schemas kept language-agnostic so the LLM serves whichever language the user is most comfortable in. Built with social housing tenants in mind, where first-language access matters.
