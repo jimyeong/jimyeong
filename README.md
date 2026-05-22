@@ -4,7 +4,7 @@
 
 I treat domain understanding as the part of the work that cannot be delegated. AI tools handle syntax and boilerplate; I guard the parts that decide what a system is actually *for* — what to keep, what to discard, where the failure modes are, and how the data flow reflects the real-world problem.
 
-Currently building deeper ML expertise on top of a full-stack + IoT foundation. Open to **KTP positions in the UK** — UK Spouse Visa, no sponsorship required.
+Currently building deeper ML expertise on top of a full-stack + IoT foundation — UK Spouse Visa, no sponsorship required.
 
 ---
 
